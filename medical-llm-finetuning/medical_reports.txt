@@ -1,0 +1,5 @@
+Patient presents with acute onset of chest pain radiating to the left arm. ECG shows ST elevation. Initial diagnosis is myocardial infarction. Administered aspirin and nitroglycerin.
+A 45-year-old male with a history of hypertension reports severe headache and blurred vision. Blood pressure is 210/110 mmHg. Suspected hypertensive urgency. Started on IV labetalol.
+Female patient, 68, with type 2 diabetes complains of numbness and tingling in her lower extremities. Neurological exam shows reduced sensation. Assessment suggests diabetic neuropathy.
+Patient presents with fever, cough, and shortness of breath for three days. Chest X-ray reveals bilateral infiltrates. COVID-19 test is ordered. Patient is started on supportive care and isolation precautions.
+A 30-year-old female with no significant past medical history presents with acute abdominal pain in the right lower quadrant. Ultrasound confirms appendicitis. Patient is scheduled for an appendectomy.
